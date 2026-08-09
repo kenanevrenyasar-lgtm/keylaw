@@ -1,0 +1,17 @@
+{
+  "name": "KeyLaw — Anonimleştirme ve Anahtar Yönetimi",
+  "short_name": "KeyLaw",
+  "description": "Avukatlar için anonimleştirme, anahtar yönetimi ve prompt kurma aracı. Tamamen tarayıcıda çalışır.",
+  "lang": "tr",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EAEBE6",
+  "theme_color": "#6E1F2B",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
